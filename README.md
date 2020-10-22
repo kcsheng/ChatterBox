@@ -1,24 +1,8 @@
-# README
+# Rails ChatterBox App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* ruby 2.7.1p83 
 
-Things you may want to cover:
+* Rails 6.0.3.4
 
-* Ruby version
+* heroku/7.46.0 darwin-x64 node-v12.16.2
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...

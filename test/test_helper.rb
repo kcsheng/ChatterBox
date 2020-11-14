@@ -13,4 +13,5 @@ class ActiveSupport::TestCase
 
   # Add more helper methods to be used by all tests here...
   include StaticPagesHelper
+  include SessionsHelper
 end

@@ -1,0 +1,12 @@
+one:
+  follower: eric
+  followed: tom
+two:
+  follower: eric
+  followed: jane
+three:
+  follower: tom
+  followed: eric
+four:
+  follower: jane
+  followed: eric
